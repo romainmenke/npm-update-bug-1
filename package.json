@@ -1,0 +1,9 @@
+{
+	"name": "npm-update-bug-1",
+	"private": true,
+	"version": "0.0.0",
+	"description": "",
+	"workspaces": [
+		"alpha/*"
+	]
+}
